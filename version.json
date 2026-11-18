@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
+  "versionCode": 4,
+  "versionName": "1.0.3",
   "url": "https://raw.githubusercontent.com/Bingxin6451/ueasy-dist/main/ueasy.apk",
-  "notes": "1.0.2\n· 新增顶部菜单（诊断模式 / 检查更新 / 使用帮助）\n· 修复帮助入口丢失\n· 设备名字与楼层可一键清空"
+  "notes": "1.0.3\n· 修复在线更新下载失败\n· 下载进度可见\n· 失败原因写入日志"
 }
