@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
+  "versionCode": 8,
+  "versionName": "1.0.7",
   "url": "https://raw.githubusercontent.com/Bingxin6451/ueasy-dist/main/ueasy.apk",
-  "notes": "1.0.5\n· 验证在线更新链路\n· 下载与安装全程有日志"
+  "notes": "1.0.7\n· 修复更新弹窗不显示\n· 下载进度可见"
 }
