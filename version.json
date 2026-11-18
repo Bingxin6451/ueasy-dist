@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.0",
+  "versionCode": 12,
+  "versionName": "1.2.0",
   "url": "https://cdn.jsdelivr.net/gh/Bingxin6451/ueasy-dist@main/ueasy.apk",
-  "notes": "1.1.0\n· 验证在线更新全链路\n· 横幅提示 + 进度显示"
+  "notes": "1.2.0 验证在线更新全链路（Release API 无缓存）"
 }
