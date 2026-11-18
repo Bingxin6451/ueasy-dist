@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "url": "https://raw.githubusercontent.com/Bingxin6451/ueasy-dist/main/ueasy.apk",
-  "notes": "1.0.8\n· 更新提示改为页面横幅，更稳定\n· 下载进度实时显示"
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "url": "https://cdn.jsdelivr.net/gh/Bingxin6451/ueasy-dist@main/ueasy.apk",
+  "notes": "1.0.9\n· 更新源改为多节点容错（jsDelivr 优先）\n· 修复国内访问 GitHub 503 导致检查失败"
 }
